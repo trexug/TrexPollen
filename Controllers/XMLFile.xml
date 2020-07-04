@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<pollen_info>
+	<file_info>
+		<provider>DMI</provider>
+		<date_UTC>
+			<day>3</day>
+			<month>7</month>
+			<year>2020</year>
+			<time>13:29:51</time>
+			<date_string>fredag den 3. juli 2020</date_string>
+		</date_UTC>
+		<date_DK>
+			<day>3</day>
+			<month>7</month>
+			<year>2020</year>
+			<time>15:29:51</time>
+			<date_string>fredag den 3. juli 2020</date_string>
+		</date_DK>
+	</file_info>
+	<region>
+		<name>København</name>
+		<readings>
+			<reading>
+				<name>Birk</name>
+				<value>-</value>
+			</reading>
+			<reading>
+				<name>Bynke</name>
+				<value>-</value>
+			</reading>
+			<reading>
+				<name>El</name>
+				<value>-</value>
+			</reading>
+			<reading>
+				<name>Elm</name>
+				<value>-</value>
+			</reading>
+			<reading>
+				<name>Græs</name>
+				<value>36</value>
+			</reading>
+			<reading>
+				<name>Hassel</name>
+				<value>-</value>
+			</reading>
+			<reading>
+				<name>Alternaria</name>
+				<value>Moderat</value>
+			</reading>
+			<reading>
+				<name>Cladosporium</name>
+				<value>Moderat</value>
+			</reading>
+		</readings>
+		<forecast>For i morgen, lørdag d. 4. juli 2020, ventes et lavt antal græspollen (under 10)</forecast>
+	</region>
+	<region>
+		<name>Viborg</name>
+		<readings>
+			<reading>
+				<name>Birk</name>
+				<value>-</value>
+			</reading>
+			<reading>
+				<name>Bynke</name>
+				<value>-</value>
+			</reading>
+			<reading>
+				<name>El</name>
+				<value>-</value>
+			</reading>
+			<reading>
+				<name>Elm</name>
+				<value>-</value>
+			</reading>
+			<reading>
+				<name>Græs</name>
+				<value>21</value>
+			</reading>
+			<reading>
+				<name>Hassel</name>
+				<value>-</value>
+			</reading>
+		</readings>
+		<forecast>For i morgen, lørdag d. 4. juli 2020, ventes et lavt antal græspollen (under 10)</forecast>
+	</region>
+	<comment>Kilde: Astma-Allergi Danmark og DMI</comment>
+	<info>Pollentallet er det gennemsnitlige antal pollen pr. kubikmeter luft pr. døgn, i København målt i tidsrummet i går kl. 13 til i dag kl. 13, i Viborg målt i tidsrummet i går kl. 9 til i dag kl. 9. Pollentallet måles 15 m over jordniveau.</info>
+	<copyright>Dagens pollental og pollenvarsling er fra Astma-Allergi Danmark og Danmarks Meteorologiske Institut.  </copyright>
+</pollen_info>
